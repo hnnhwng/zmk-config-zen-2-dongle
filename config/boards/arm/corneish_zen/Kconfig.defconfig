@@ -11,6 +11,9 @@ config BOARD
 config ZMK_SPLIT
 	default y
 
+config ZMK_SPLIT_ROLE_CENTRAL
+    default n
+
 config ZMK_BLE
 	default y
 
