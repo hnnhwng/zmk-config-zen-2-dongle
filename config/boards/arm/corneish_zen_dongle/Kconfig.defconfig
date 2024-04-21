@@ -8,6 +8,9 @@ if BOARD_CORNEISH_ZEN_LEFT || BOARD_CORNEISH_ZEN_RIGHT
 config ZMK_SPLIT_ROLE_CENTRAL
     default n
 
+config ZMK_KEYBOARD_NAME
+    default ""
+
 config BOARD
     default "corneish_zen"
 
