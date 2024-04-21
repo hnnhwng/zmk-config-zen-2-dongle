@@ -9,7 +9,7 @@ config ZMK_SPLIT_ROLE_CENTRAL
     default n
 
 config ZMK_KEYBOARD_NAME
-    default ""
+    default
 
 config BOARD
     default "corneish_zen"
