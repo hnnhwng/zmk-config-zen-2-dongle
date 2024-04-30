@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: MIT
 #
 
-if SHIELD_CORNEISH_ZEN_DONGLE
+if SHIELD_ZEN_DONGLE
 
 config ZMK_KEYBOARD_NAME
     default "Corne-ish Zen"
@@ -21,4 +21,4 @@ config ZMK_BLE
 	default y
 
 
-endif # SHIELD_CORNEISH_ZEN_DONGLE
+endif # SHIELD_ZEN_DONGLE

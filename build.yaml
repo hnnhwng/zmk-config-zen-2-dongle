@@ -2,4 +2,4 @@ include:
   - board: corneish_zen_v2_left
   - board: corneish_zen_v2_right
   - board: nice_nano_v2
-    shield: corneish_zen_dongle
+    shield: zen_dongle
