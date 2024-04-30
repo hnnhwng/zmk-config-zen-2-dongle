@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: zmk
       remote: caksoylar
-      revision: zen-8bit
+      revision: caksoylar/zen-8bit
       import: app/west.yml
   self:
     path: config
